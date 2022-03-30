@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jan 2022 16:30:12 at https://demo.htmlcodex.com/709/resume-website-template/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.htmlcodex.com/709/resume-website-template/ -O1 "C:\My Web Sites\cv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:30:30	Error: 	"Not Found" (404) at link https://demo.htmlcodex.com/709/resume-website-template/img/favicon.ico (from https://demo.htmlcodex.com/709/resume-website-template/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 40 links scanned, 38 files written (854993 bytes overall) [491931 bytes received at 15372 bytes/sec], 556117 bytes transferred using HTTP compression in 24 files, ratio 27%, 8.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
